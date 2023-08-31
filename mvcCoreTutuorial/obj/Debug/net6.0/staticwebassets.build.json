@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "PmwWMx/y0hP0cSz63J7Zo8YcelRZQ7z1JnM5l+o9T98=",
+  "Source": "mvcCoreTutuorial",
+  "BasePath": "_content/mvcCoreTutuorial",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mvcCoreTutuorial\\wwwroot",
+      "Source": "mvcCoreTutuorial",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\.net\\mvcCoreTutuorial\\mvcCoreTutuorial\\wwwroot\\",
+      "BasePath": "_content/mvcCoreTutuorial",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\.net\\mvcCoreTutuorial\\mvcCoreTutuorial\\wwwroot\\favicon.ico",
+      "SourceId": "mvcCoreTutuorial",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\.net\\mvcCoreTutuorial\\mvcCoreTutuorial\\wwwroot\\",
+      "BasePath": "_content/mvcCoreTutuorial",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
